@@ -1,5 +1,4 @@
 C:\Users\carlos\source\repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\carlos\source\repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\carlos\source\repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\carlos\source\repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\DatingApp.API.exe
 C:\Users\carlos\source\repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\DatingApp.API.deps.json
@@ -43,3 +42,4 @@ C:\Users\carlos\source\repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Sys
 C:\Users\carlos\source\repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\carlos\source\repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
 C:\Users\carlos\source\repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\carlos\source\repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\appsettings.json
